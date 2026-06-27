@@ -1,6 +1,6 @@
 ## Olá! Eu sou Phillip Leal, bem-vindo ao meu GitHub.
 
-- 💻 Hoje trabalho com back-end. C#.
+- 💻  C# back-end.
 
 
 
